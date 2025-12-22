@@ -10,4 +10,4 @@ Otherwise, it returns false
 Then we define a variable in which we use the filter
 Then we use another function and name it as you like and define a variable for it
 And multiply that variable by itself and return
-Then we define a variable that uses the list and map and prints the function we wrote and the variable we had defined earlier
+Then we define a variable that uses the list and reduse and prints the function we wrote and the variable we had defined earlier
