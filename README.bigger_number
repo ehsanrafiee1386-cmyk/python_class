@@ -1,10 +1,13 @@
 # python_class
-Topic: A program that prints only numbers greater than 10 from a list of numbers
-Data: List/Large function/and Large number variable
-Relationship between data and unknown: We use a filter to print the numbers
+Topic: A program that prints only numbers greater than 10 from a list of numbers and multiplies the list with reduse
+Data: List/large function/and variable of large numbers
+Relationship between data and unknown: We use a filter to print the numbers and multiply them with reduse
 Solution:
 First of all, we define a list that contains numbers
 Then we define a function that has a variable
 And if the numbers are greater than 10, it returns true for us
 Otherwise, it returns false
-Then we define a variable in which we use the filter and print that variable
+Then we define a variable in which we use the filter
+Then we use another function and name it as you like and define a variable for it
+And multiply that variable by itself and return
+Then we define a variable that uses the list and map and prints the function we wrote and the variable we had defined earlier
