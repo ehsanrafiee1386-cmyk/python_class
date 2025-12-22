@@ -1,0 +1,8 @@
+my_name = ["ali","reza","sara"]
+
+def to_upper(name):
+    return name.upper()
+
+upper_names = list(map(to_upper,my_name))
+
+print(upper_names)
