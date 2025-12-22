@@ -1,0 +1,9 @@
+Topic: A list of names that convert their letters to uppercase
+Data: List of names/its function/and an arbitrary variable
+Relationship between data and unknown: Using map, we convert it to uppercase
+Solution:
+First of all, we define a list of names
+Then we define a function and give it an arbitrary name and also define a variable
+And we return that variable
+After that, we define a variable and use list, map and string, we operate on it
+And we print it  
