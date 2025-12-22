@@ -4,7 +4,6 @@ Data and Anonymous Relationship: Nouns
 Design: Write a program that takes three names from the user: Ali, Reza, and Sara, and we need to convert them to uppercase letters.
 
 code:
-Name_list =[“reza””ali””sara”]
-
-Capital = (name_list.upper())
-Print(capital)
+name_list= ["ali""reza""sara"]
+def nam()"
+print(name.upper())
