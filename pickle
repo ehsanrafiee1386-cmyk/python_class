@@ -1,0 +1,11 @@
+#python class
+Data: Finding a file
+Relationship between data and unknown: file
+Design: Write a program that takes a file from a person and extracts it with Pickle
+
+code:
+Import pickle
+Name = input(“enter your file:”)
+With open(name, “rb”)as file:
+Data:pickle.load(file)
+Print(data)
