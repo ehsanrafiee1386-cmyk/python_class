@@ -11,3 +11,11 @@ def number(a):
 num = list(filter(number,my_list))
 
 print(num)
+
+def mul(b,c):
+    return b * c
+
+
+calculate = reduce(mul,my_list)
+
+print(calculate)
