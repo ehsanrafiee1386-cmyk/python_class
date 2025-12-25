@@ -1,4 +1,5 @@
 #python class
+from functools import reduce
 
 my_list = [3,4,1,9,7,5,6,10,12,14,20,25]
 
