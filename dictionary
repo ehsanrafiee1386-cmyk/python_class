@@ -3,3 +3,9 @@ We consider a tuple for three members and use a list to store them
 Dictionary can be the name , family,business and we bet not to repeat it and at the end we will show them all together.
 اقای رفیعی
 reject
+----------------------------------------------------------------------------------------------------------------------
+edit
+We consider a tuple for three members and use a list to store them 
+Dictionary can be name, occupation and surname 
+ We bet it won't do if it's out of the dictionary
+ At the end we show them all together.
