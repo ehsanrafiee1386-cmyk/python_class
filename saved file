@@ -1,0 +1,8 @@
+Topic: Write a program that takes a list of names from the user and saves it in a file. Then open the file and read and print the names
+Data: List of user names
+Relationship between data and unknown: We take the names from the user and save them in a file
+Solution:
+First we define a variable that the user enters the list of names, then we define a function that has a variable,
+Then we enter the variable and save it in binary form in a file with pickle dump, and then open the file with pickle load, read it and print it
+
+Rafiee
