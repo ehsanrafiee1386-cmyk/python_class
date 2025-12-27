@@ -1,0 +1,9 @@
+username=input("enter your username:")
+password=int(input("enter your password:"))
+
+def login():
+    name_dict1={{"username":"ehsan","password":13861386},
+                {"username":"ali","password":13871387},
+                {"username":"amir","password":13881388}}
+    for i in name_dict1:
+        if username and password==
