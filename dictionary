@@ -15,3 +15,4 @@ edit
 We consider a tuple for three members and use a list to store them 
 Dictionary can be name, occupation and surname 
  We bet it won't do if it's out of the dictionary
+reject
