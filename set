@@ -1,0 +1,4 @@
+Create a list with duplicate values ​​and remove the duplicates by converting to a set.
+We want to create a list with duplicate numbers and delete the duplicate numbers with set. 
+First, I create a list with duplicate numbers and then we convert the list to set and convert it to a non-repeated list.
+جعفری
