@@ -7,3 +7,13 @@ Then we enter the variable and save it in binary form in a file with pickle dump
 
 Rafiee
 reject
+
+Amendment
+
+Subject: Write a program that takes a list of names from the user and saves it in a file. Then open the file and read and print the names
+Data: List of user names
+Relationship between data and unknown: We take the names from the user and save them in a file
+Solution:
+First we import the pickle library, then we define an empty list, we define the menu using while True, if the number 1 is entered, the name is added to the list, if 2 is entered, the program ends, then we define an option that the user enters the option, then with
+Then to save the list of names in a binary file with pickle dump, we save the file as wb
+To open the file and read it, we must write the file name and enter the file name and save it in binary in a file, and then open the file using another function, read and print it
