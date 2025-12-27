@@ -1,0 +1,8 @@
+We define a function that checks whether the number entered by the user is even or not.
+a=int(input("enter your number"))
+def mb (a):
+    if a %2 ==0:
+        print("couple")
+        return mb
+
+print(mb)
