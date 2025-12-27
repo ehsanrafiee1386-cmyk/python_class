@@ -1,4 +1,4 @@
  writing a program whose database is a dictionary with three members, and if it is duplicate, it is not allowed to enter.
 We consider a tuple for three members and use a list to store them 
-Dictionary can be the name of a family business and we bet not to repeat it and at the end we will show them all together.
+Dictionary can be the name , family,business and we bet not to repeat it and at the end we will show them all together.
 اقای رفیعی
