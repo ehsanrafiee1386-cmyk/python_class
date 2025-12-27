@@ -6,3 +6,4 @@ First we define a variable that the user enters the list of names, then we defin
 Then we enter the variable and save it in binary form in a file with pickle dump, and then open the file with pickle load, read it and print it
 
 Rafiee
+reject
