@@ -17,5 +17,7 @@ Dictionary can be name, occupation and surname
  We bet it won't do if it's out of the dictionary
 reject
 ------------------------------------------------------------------------------------------------------------------------
-We create a function that has three members, these three members include the usernames of three people, each of whom has a password. 
+We create a function that has three members,
+these three members include the usernames of three people,
+each of whom has a password. 
 If the password does not match their username, it will print, you cannot log in.
